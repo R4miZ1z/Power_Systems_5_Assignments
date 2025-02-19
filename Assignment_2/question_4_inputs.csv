@@ -1,0 +1,14 @@
+Name,Voltage,Type,Gen_S,Gen_P,Gen_V,Gen_PF,Load_S,Load_PF
+Slack,345,Slack,,,1.0+0.0j,,,
+Swann,230,,,,,,,
+JCMB,13.8,PQ,125,,,0.8,100,0.8
+Alrick,230,,,,,,,
+William Rankin,115,,,,,,150,0.9
+Fleeming Jenkin,230,,,,,,,
+A G Bell,115,,,,,,35,
+Faraday,230,,,,,,,
+Sanderson,13.8,PV,,200,1.0,,120,0.833
+Hudson Beare,230,,,,,,,
+Ashworth,230,,,,,,,
+D Rutherford,13.8,PQ,250,,,0.8,200,0.8
+Darwin,115,,,,,,80,0.875
