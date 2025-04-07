@@ -1,0 +1,11 @@
+Bus,Name,Voltage,Type,Gen_S,Gen_P,Gen_V,Gen_PF,Load_P,Load_Q
+1,Peterhead,345,Slack,,,1.0∠0,,100,0
+2,Wick,345,PV,150,150,1.0∠0,,100,50
+3,Thurso,345,PV,150,150,1.0∠0,,200,100
+4,Dounreay,132,,,,,,,
+5,Melvich,132,,,,,,,
+6,Melvich2,33,,,,,,4,1.5
+7,Armadale,33,,,,,,,
+8,Armadale2,11,,,,,,2.5,1.2
+9,FishCanCo,11,,,,,,,
+10,FishCanCo2,0.4,,,,,,1,0.5
